@@ -34,7 +34,7 @@ In this lab, I simulated a real-world enterprise help desk ticket where a Financ
 
 - <b>Windows 11</b> 
 
-<h2> 🎯 Purpose of This Lab</h2>
+<h2>  Purpose of This Lab</h2>
 
 - <b>This exercise demonstrates my understanding of real-world help desk workflows, access control concepts, and structured incident response using enterprise ticketing tools </b> 
 
